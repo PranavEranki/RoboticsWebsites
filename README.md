@@ -13,3 +13,27 @@ General readme for both 7610 and Template folder
 * To complete and customize this website, all you need is some basic HTML and CSS skills. Please ask for help if necessary.
 * Comments are placed where you need to put in your custom info.
 * Get images and place them in the *images* folder, and reference them in your <a href = "..">s
+
+
+## Template examples
+### Note : Some of these are empty, because there is currently no content in them.
+
+### Home
+
+![](images/template_home_page_example.png)
+
+### About
+
+![](images/template_about_page_example.png)
+
+## Robot
+
+![](images/template_robot_page_example.png)
+
+### Outreach
+
+![](images/template_outreach_page_example.png)
+
+### Resources
+
+![](images/template_resources_page_example.png)
