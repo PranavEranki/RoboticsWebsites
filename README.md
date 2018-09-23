@@ -1,5 +1,5 @@
 # Website
-General readme for both 7610 and Template folder
+For the template, download this folder and use only the *Template* folder. All other folders and files not in this folder can be disregarded for template purposes.
 
 ## Some things to note:
 * The logo onload color is white, then it becomes black as you scroll down a bit. Don't be alarmed if the number in the logo does not load immediately.
