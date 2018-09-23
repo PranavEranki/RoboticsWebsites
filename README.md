@@ -16,7 +16,7 @@ General readme for both 7610 and Template folder
 
 
 ## Template examples
-### Note : Some of these are empty, because there is currently no content in them.
+#### Note : Some of these are empty, because there is currently no content in them.
 
 ### Home
 
@@ -26,7 +26,7 @@ General readme for both 7610 and Template folder
 
 ![](images/template_about_page_example.PNG)
 
-## Robot
+### Robot
 
 ![](images/template_robot_page_example.PNG)
 
