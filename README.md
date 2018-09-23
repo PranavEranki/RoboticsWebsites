@@ -20,20 +20,20 @@ General readme for both 7610 and Template folder
 
 ### Home
 
-![](images/template_home_page_example.png)
+![](images/template_home_page_example.PNG)
 
 ### About
 
-![](images/template_about_page_example.png)
+![](images/template_about_page_example.PNG)
 
 ## Robot
 
-![](images/template_robot_page_example.png)
+![](images/template_robot_page_example.PNG)
 
 ### Outreach
 
-![](images/template_outreach_page_example.png)
+![](images/template_outreach_page_example.PNG)
 
 ### Resources
 
-![](images/template_resources_page_example.png)
+![](images/template_resources_page_example.PNG)
