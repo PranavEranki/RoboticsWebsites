@@ -18,7 +18,7 @@ __Work in Progress, please submit suggestions__
 
 
 ## Template examples
-#### Note : Some of these are empty, because there is currently no content in them.
+#### Note : Some of these are empty, you must add appropriate content into them.
 
 ### Home
 
