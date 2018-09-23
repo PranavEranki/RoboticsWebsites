@@ -1,5 +1,5 @@
 # Website
-Showcase website for the amazing 7610 team from Cupertino High School.
+General readme for both 7610 and Template folder
 
 ## Some things to note:
 * The logo onload color is white, then it becomes black as you scroll down a bit. Don't be alarmed if the number in the logo does not load immediately.
@@ -7,6 +7,7 @@ Showcase website for the amazing 7610 team from Cupertino High School.
 * The website may look __extremely__ empty - don't worry, check the html files
 * It would be nice if you could __change up the code__ for yourself, also change the about and bios page, so you could further customize the site.
 * Please change the metadata, which is available at the top of every html file, to match your team.
+* Please contact me @*pranav.eranki@gmail.com* or talk to me during school if you have any questions.
 
 ## How to edit the file
 * To complete and customize this website, all you need is some basic HTML and CSS skills. Please ask for help if necessary.
