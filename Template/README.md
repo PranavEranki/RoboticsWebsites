@@ -1,1 +1,2 @@
-# TEMPLATE FILE! DOWNLOAD AND USE THIS FOLDER IF MAKING A WEBSITE
+# Template Folder!
+## Download and use this folder if you are making your personal robotics website.
