@@ -14,7 +14,7 @@ __Work in Progress, please submit suggestions__
 ## How to edit the file
 * To complete and customize this website, all you need is some basic HTML and CSS skills. Please ask for help if necessary.
 * Comments are placed where you need to put in your custom info.
-* Get images and place them in the *images* folder, and reference them in your <a href = "..">s
+* Get images and place them in the *images* folder, and reference them in your `<a href = "..">`s
 
 
 ## Template examples
