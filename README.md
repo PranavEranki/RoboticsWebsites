@@ -14,6 +14,10 @@
   - Change the about and bios page, so you could further customize the site (documentation provided in html)
   - Please change the metadata, which is available at the top of every html file, to match your team (again, documentation in the html files)
 
+## Want a custom domain?
+
+If you want to host this website on a custom domain, make a new github user and upload this template as a .github.io repository. For more instructions on that, click [here](https://pages.github.com/)
+
 __Work in Progress, please submit suggestions__
 
 __Found a bug? Open an issue on this page, and I will look into it ASAP.__
