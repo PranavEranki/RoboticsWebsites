@@ -1,6 +1,6 @@
 # Website
 
-## Instalation:
+## Installation:
 1. Download the zip
 2. Delete the 7610-Website folder, as you only need the Template and images folder.
 3. Look through the readme (on this page) for further instructions and things to note.
