@@ -18,10 +18,13 @@
 
 If you want to host this website on a custom domain, make a new github user and upload this template as a .github.io repository. For more instructions on that, click [here](https://pages.github.com/)
 
+<hr>
+
 __Work in Progress, please submit suggestions__
 
 __Found a bug? Open an issue on this page, and I will look into it ASAP.__
 
+<hr/>
 ## Some things to note:
 * The logo onload color is white, then it becomes black as you scroll down a bit. Don't be alarmed if the number in the logo does not load immediately.
 * This is meant to be as a template for all the teams to use and create a personal website.
