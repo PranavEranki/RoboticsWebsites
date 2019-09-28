@@ -2,8 +2,7 @@
 
 ## Installation:
 1. Download the zip
-2. Delete the 7610-Website folder, as you only need the Template and images folder.
-3. Look through the readme (on this page) for further instructions and things to note.
+2. Look through the readme (on this page) for further instructions and things to note.
 
 ## Editing:
 * To complete and customize this website, all you need is some basic HTML and CSS skills. Please ask for help if necessary.
